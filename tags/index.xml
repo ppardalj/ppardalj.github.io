@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pedro Pardal</title>
-    <link>https://ppardalj.github.io/tags/</link>
+    <link>http://ppardalj.com/tags/</link>
     <description>Recent content in Tags on Pedro Pardal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Oct 2019 22:58:08 +0100</lastBuildDate>
     
-	<atom:link href="https://ppardalj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ppardalj.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>formacion</title>
-      <link>https://ppardalj.github.io/tags/formacion/</link>
+      <link>http://ppardalj.com/tags/formacion/</link>
       <pubDate>Mon, 14 Oct 2019 22:58:08 +0100</pubDate>
       
-      <guid>https://ppardalj.github.io/tags/formacion/</guid>
+      <guid>http://ppardalj.com/tags/formacion/</guid>
       <description></description>
     </item>
     
