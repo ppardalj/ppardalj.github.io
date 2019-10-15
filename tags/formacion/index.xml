@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formacion on Pedro Pardal</title>
+    <link>https://ppardalj.github.io/tags/formacion/</link>
+    <description>Recent content in formacion on Pedro Pardal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2019 22:58:08 +0100</lastBuildDate>
+    
+	<atom:link href="https://ppardalj.github.io/tags/formacion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La inexperiencia de la industria del software.</title>
+      <link>https://ppardalj.github.io/post/la-inexperiencia-de-la-industria-del-software/</link>
+      <pubDate>Mon, 14 Oct 2019 22:58:08 +0100</pubDate>
+      
+      <guid>https://ppardalj.github.io/post/la-inexperiencia-de-la-industria-del-software/</guid>
+      <description>A lo largo de la relativa corta vida del sector del desarrollo del software, que recordemos apenas tiene poco más de 60 años, lo cual es nada si lo comparamos con otras disciplinas como las ingenierías industriales, la demanda de desarrolladores no ha hecho más que crecer. En concreto, tal como indica Robert C. Martin en su charla The Scribe&amp;rsquo;s Oath, en la que discute aspectos de la responsabilidad civil de los ingenieros de software, la cantidad de desarrolladores en la industria del desarrollo software a través del tiempo sigue una progresión muy similar a la Ley de Moore: se duplica cada cinco años.</description>
+    </item>
+    
+  </channel>
+</rss>

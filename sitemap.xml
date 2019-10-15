@@ -3,25 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ppardalj.github.io/categories/</loc>
+    <loc>https://ppardalj.github.io/post/</loc>
+    <lastmod>2019-10-14T22:58:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ppardalj.github.io/contact/</loc>
+    <loc>https://ppardalj.github.io/tags/formacion/</loc>
+    <lastmod>2019-10-14T22:58:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ppardalj.github.io/</loc>
+    <loc>https://ppardalj.github.io/post/la-inexperiencia-de-la-industria-del-software/</loc>
+    <lastmod>2019-10-14T22:58:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ppardalj.github.io/tags/</loc>
+    <lastmod>2019-10-14T22:58:08+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ppardalj.github.io/</loc>
+    <lastmod>2019-10-14T22:58:08+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ppardalj.github.io/asesoria/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ppardalj.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ppardalj.github.io/contacto/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ppardalj.github.io/formacion/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
