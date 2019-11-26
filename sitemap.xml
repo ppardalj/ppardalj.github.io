@@ -3,6 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.ppardalj.com/post/como-implementar-la-metodologia-gtd-con-trello/</loc>
+    <lastmod>2019-11-26T17:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ppardalj.com/tags/gtd/</loc>
+    <lastmod>2019-11-26T17:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ppardalj.com/tags/productividad-personal/</loc>
+    <lastmod>2019-11-26T17:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ppardalj.com/tags/soft-skills/</loc>
+    <lastmod>2019-11-26T17:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ppardalj.com/tags/</loc>
+    <lastmod>2019-11-26T17:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ppardalj.com/tags/trello/</loc>
+    <lastmod>2019-11-26T17:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ppardalj.com/</loc>
+    <lastmod>2019-11-26T17:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.ppardalj.com/post/</loc>
     <lastmod>2019-10-14T22:58:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -18,20 +67,6 @@
   
   <url>
     <loc>http://www.ppardalj.com/post/la-inexperiencia-de-la-industria-del-software/</loc>
-    <lastmod>2019-10-14T22:58:08+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ppardalj.com/tags/</loc>
-    <lastmod>2019-10-14T22:58:08+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ppardalj.com/</loc>
     <lastmod>2019-10-14T22:58:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
