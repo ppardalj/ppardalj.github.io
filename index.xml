@@ -6,10 +6,19 @@
     <description>Recent content in ¡Hola! Soy Pedro Pardal on Pedro Pardal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://www.ppardalj.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mi primer proyecto legacy</title>
+      <link>http://www.ppardalj.com/post/mi-primer-proyecto-legacy/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.ppardalj.com/post/mi-primer-proyecto-legacy/</guid>
+      <description>Mi primer contacto con código legacy fue hace ya más de 15 años, y ni siquiera sabía lo que era código legacy. En aquella época, jugaba a un juego online que se llama Ultima Online (si por casualidad has llegado a jugar, dame like, suscribete y activa la campanita). Básicamente es un RPG de mundo abierto donde puedes interactuar con los personajes de otra gente, ir a matar bichicos, pegarte de hostias con los demás… algo parecido al WoW, pero más viejuno todavía, con gráficos en 2D isométricos cutres.</description>
+    </item>
     
     <item>
       <title>Cómo implementar la metodología GTD con Trello</title>
@@ -55,8 +64,8 @@ Tu nombre Dirección de correo electrónico Se requiere una dirección de correo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.ppardalj.com/formacion/</guid>
-      <description>Ofrezco una gran variedad de formaciones técnicas orientadas a desarrolladores de software de todos los niveles, con el objetivo de dotar a tu equipo de desarrollo de los conocimientos, herramientas y experiencias para afrontar sus desafíos del día a día de la forma más eficiente posible. Todos mis cursos están diseñados minuciosamente basándose en la experiencia de años de desarrollo en la industria.
-Catálogo de formaciones Actualmente me encuentro preparando el catálogo de formaciones, por lo que no todos los detalles se encuentran disponibles en la web, ¡mil disculpas!</description>
+      <description>¡Novedad!: desde hace algunos meses, ofrezco todo este catálogo de formaciones, y muchas otras, a través de mi nuevo proyecto Exeal, te invito a que le des un vistazo si estás interesado en formar a tu equipo :)
+Ofrezco una gran variedad de formaciones técnicas orientadas a desarrolladores de software de todos los niveles, con el objetivo de dotar a tu equipo de desarrollo de los conocimientos, herramientas y experiencias para afrontar sus desafíos del día a día de la forma más eficiente posible.</description>
     </item>
     
   </channel>
