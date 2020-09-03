@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.ppardalj.com/tags/libros/</loc>
+    <lastmod>2020-09-03T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ppardalj.com/post/reinicia-resumen-del-libro/</loc>
+    <lastmod>2020-09-03T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ppardalj.com/tags/</loc>
+    <lastmod>2020-09-03T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ppardalj.com/</loc>
+    <lastmod>2020-09-03T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.ppardalj.com/tags/batallitas/</loc>
     <lastmod>2020-07-27T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -18,20 +46,6 @@
   
   <url>
     <loc>http://www.ppardalj.com/post/mi-primer-proyecto-legacy/</loc>
-    <lastmod>2020-07-27T00:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ppardalj.com/tags/</loc>
-    <lastmod>2020-07-27T00:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ppardalj.com/</loc>
     <lastmod>2020-07-27T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
