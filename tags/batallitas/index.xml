@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>batallitas on Pedro Pardal</title>
@@ -6,11 +6,7 @@
     <description>Recent content in batallitas on Pedro Pardal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="http://www.ppardalj.com/tags/batallitas/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0100</lastBuildDate><atom:link href="http://www.ppardalj.com/tags/batallitas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi primer proyecto legacy</title>
       <link>http://www.ppardalj.com/post/mi-primer-proyecto-legacy/</link>

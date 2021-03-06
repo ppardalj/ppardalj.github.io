@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>¡Hola! Soy Pedro Pardal on Pedro Pardal</title>
@@ -6,11 +6,7 @@
     <description>Recent content in ¡Hola! Soy Pedro Pardal on Pedro Pardal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="http://www.ppardalj.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0100</lastBuildDate><atom:link href="http://www.ppardalj.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reinicia: resumen del libro</title>
       <link>http://www.ppardalj.com/post/reinicia-resumen-del-libro/</link>
@@ -48,23 +44,13 @@
     </item>
     
     <item>
-      <title>Asesoría</title>
-      <link>http://www.ppardalj.com/asesoria/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ppardalj.com/asesoria/</guid>
-      <description>Si tu empresa, departamento de desarrollo o proyecto software sufre de alguno de los siguientes problemas, es muy posible que pueda ayudarte:
- Tienes un producto software y a tu equipo de desarrollo cada vez le cuesta más tiempo y esfuerzo añadir nuevas funcionalidades y/o corregir errores. Tu empresa está perdiendo oportunidades de negocio porque pasa demasiado tiempo desde que descubres una oportunidad o idea hasta que la solución software puede ser usada por tus clientes.</description>
-    </item>
-    
-    <item>
       <title>Contacto</title>
       <link>http://www.ppardalj.com/contacto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.ppardalj.com/contacto/</guid>
       <description>Si quieres que descubramos juntos cómo puedo ayudarte, por favor rellena el siguiente formulario y me pondré en contacto contigo lo antes posible. También estoy disponible cuando quieras para tomar una cerveza :)
-Tu nombre Dirección de correo electrónico Se requiere una dirección de correo electrónico.  Mensaje   </description>
+Tu nombreDirección de correo electrónicoSe requiere una dirección de correo electrónico.Mensaje</description>
     </item>
     
     <item>
@@ -74,7 +60,7 @@ Tu nombre Dirección de correo electrónico Se requiere una dirección de correo
       
       <guid>http://www.ppardalj.com/formacion/</guid>
       <description>¡Novedad!: desde hace algunos meses, ofrezco todo este catálogo de formaciones, y muchas otras, a través de mi nuevo proyecto Exeal, te invito a que le des un vistazo si estás interesado en formar a tu equipo :)
-Ofrezco una gran variedad de formaciones técnicas orientadas a desarrolladores de software de todos los niveles, con el objetivo de dotar a tu equipo de desarrollo de los conocimientos, herramientas y experiencias para afrontar sus desafíos del día a día de la forma más eficiente posible.</description>
+ Ofrezco una gran variedad de formaciones técnicas orientadas a desarrolladores de software de todos los niveles, con el objetivo de dotar a tu equipo de desarrollo de los conocimientos, herramientas y experiencias para afrontar sus desafíos del día a día de la forma más eficiente posible.</description>
     </item>
     
   </channel>
