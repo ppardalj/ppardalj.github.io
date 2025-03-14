@@ -147,12 +147,6 @@ textarea {
   font-weight: normal;
   font-style: normal; }
 
-@font-face {
-  font-family: 'Avenir Book';
-  src: url("/assets/font/avenir-book.woff2") format("woff2"), url("/assets/font/avenir-book.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-
 .button {
   display: block;
   border-style: solid;
@@ -357,7 +351,7 @@ h4 {
   font-size: 1.375em;
   margin-top: 1.25em;
   margin-bottom: 1.25em;
-  font-family: "Avenir Book", sans-serif; }
+  font-family: "Work Sans", sans-serif; }
 
 section p {
   margin-top: 1.25em;
@@ -426,9 +420,7 @@ nav {
   font-family: "Work Sans", sans-serif; }
 
 nav.dark {
-  border-style: solid;
-  border-color: #8d9199;
-  border-bottom-width: 2px; }
+  background-color: black; }
 
 .navbar {
   padding-top: 1em;
@@ -1047,7 +1039,7 @@ ul.blocks div.inner {
   border-bottom: 2px solid #2762f8; }
 
 .preventry-number {
-  font-family: 'Avenir Book', sans-serif;
+  font-family: "Work Sans", sans-serif;
   color: #8d9199;
   font-size: 1.5rem;
   margin-right: 1.5rem; }
@@ -1056,7 +1048,7 @@ ul.blocks div.inner {
   flex-grow: 1; }
 
 .preventry-title {
-  font-family: 'Avenir Book', sans-serif;
+  font-family: "Work Sans", sans-serif;
   font-size: 1.25rem;
   color: #001c46;
   margin: 0; }
