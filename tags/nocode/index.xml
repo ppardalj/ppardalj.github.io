@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nocode on Pedro Pardal</title><link>https://www.ppardalj.com/tags/nocode/</link><description>Recent content in Nocode on Pedro Pardal</description><generator>Hugo</generator><language>es</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://www.ppardalj.com/tags/nocode/index.xml" rel="self" type="application/rss+xml"/><item><title>Cómo solucionar un 401 en tu API al integrar Auth0 con n8n</title><link>https://www.ppardalj.com/blog/2025/06/como-solucionar-un-401-en-tu-api-al-integrar-auth0-con-n8n/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate><guid>https://www.ppardalj.com/blog/2025/06/como-solucionar-un-401-en-tu-api-al-integrar-auth0-con-n8n/</guid><description>&lt;p>Si estás integrando &lt;strong>n8n&lt;/strong> con &lt;strong>Auth0&lt;/strong> para automatizar llamadas a una API protegida con OAuth2, es posible que te encuentres con un error desconcertante:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>n8n realiza el login correctamente, Auth0 emite el token sin errores, pero tu API responde con un 401 Unauthorized.&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>En concreto, esto es la stack trace del error:&lt;/p>
+&lt;pre tabindex="0">&lt;code>NodeApiError: Authorization failed - please check your credentials
+at ExecuteContext.execute (/opt/render/project/src/packages/nodes-base/nodes/HttpRequest/V3/HttpRequestV3.node.ts:769:15)
+at processTicksAndRejections (node:internal/process/task_queues:105:5)
+at WorkflowExecute.runNode (/opt/render/project/src/packages/core/src/execution-engine/workflow-execute.ts:1185:9)
+at /opt/render/project/src/packages/core/src/execution-engine/workflow-execute.ts:1534:27
+at /opt/render/project/src/packages/core/src/execution-engine/workflow-execute.ts:2098:11
+&lt;/code>&lt;/pre>&lt;p>Este problema suele deberse a que el &lt;code>access_token&lt;/code> que recibe n8n &lt;strong>no tiene el &lt;code>audience&lt;/code> correcto&lt;/strong>. Es decir, Auth0 no está emitiendo un token dirigido a tu API específica, sino un token &amp;ldquo;genérico&amp;rdquo; que tu backend no reconoce como válido.&lt;/p></description></item></channel></rss>
