@@ -204,6 +204,10 @@ ul.tags.tags-small {
   height: 10em;
   min-height: 700px; }
 
+.hero-smaller {
+  height: 10em;
+  min-height: 400px !important; }
+
 .hero-bg-img {
   background-size: cover;
   background-position: center;
