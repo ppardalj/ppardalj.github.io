@@ -4,17 +4,7 @@
 Tiempo total: 2 horas y 45 minutos. ¿Mucho o poco?&lt;/p>
 &lt;p>Me he tirado ese tiempo debugando, escribiendo un test que reprodujera el bug (verlo en rojo), aplicando el fix mínimo y viendo cómo el test pasaba a verde.&lt;/p>
 &lt;p>El cambio real fue una línea.&lt;/p>
-&lt;p>¿La diferencia? -&amp;gt; Ahora tengo un 100 % de confianza en que el bug está arreglado.&lt;/p></description></item><item><title>Cómo solucionar un 401 en tu API al integrar Auth0 con n8n</title><link>https://www.ppardalj.com/blog/2025/06/como-solucionar-un-401-en-tu-api-al-integrar-auth0-con-n8n/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate><guid>https://www.ppardalj.com/blog/2025/06/como-solucionar-un-401-en-tu-api-al-integrar-auth0-con-n8n/</guid><description>&lt;p>Si estás integrando &lt;strong>n8n&lt;/strong> con &lt;strong>Auth0&lt;/strong> para automatizar llamadas a una API protegida con OAuth2, es posible que te encuentres con un error desconcertante:&lt;/p>
-&lt;blockquote>
-&lt;p>&lt;strong>n8n realiza el login correctamente, Auth0 emite el token sin errores, pero tu API responde con un 401 Unauthorized.&lt;/strong>&lt;/p>&lt;/blockquote>
-&lt;p>En concreto, esto es la stack trace del error:&lt;/p>
-&lt;pre tabindex="0">&lt;code>NodeApiError: Authorization failed - please check your credentials
-at ExecuteContext.execute (/opt/render/project/src/packages/nodes-base/nodes/HttpRequest/V3/HttpRequestV3.node.ts:769:15)
-at processTicksAndRejections (node:internal/process/task_queues:105:5)
-at WorkflowExecute.runNode (/opt/render/project/src/packages/core/src/execution-engine/workflow-execute.ts:1185:9)
-at /opt/render/project/src/packages/core/src/execution-engine/workflow-execute.ts:1534:27
-at /opt/render/project/src/packages/core/src/execution-engine/workflow-execute.ts:2098:11
-&lt;/code>&lt;/pre>&lt;p>Este problema suele deberse a que el &lt;code>access_token&lt;/code> que recibe n8n &lt;strong>no tiene el &lt;code>audience&lt;/code> correcto&lt;/strong>. Es decir, Auth0 no está emitiendo un token dirigido a tu API específica, sino un token &amp;ldquo;genérico&amp;rdquo; que tu backend no reconoce como válido.&lt;/p></description></item><item><title>No soy un fraude</title><link>https://www.ppardalj.com/blog/2024/10/no-soy-un-fraude/</link><pubDate>Tue, 29 Oct 2024 00:00:00 +0100</pubDate><guid>https://www.ppardalj.com/blog/2024/10/no-soy-un-fraude/</guid><description>&lt;p>Cuando entré a trabajar en Tuenti, hace ya más de 12 años, estaba convencidísimo de que no iba a pasar el periodo de prueba.&lt;/p>
+&lt;p>¿La diferencia? -&amp;gt; Ahora tengo un 100 % de confianza en que el bug está arreglado.&lt;/p></description></item><item><title>No soy un fraude</title><link>https://www.ppardalj.com/blog/2024/10/no-soy-un-fraude/</link><pubDate>Tue, 29 Oct 2024 00:00:00 +0100</pubDate><guid>https://www.ppardalj.com/blog/2024/10/no-soy-un-fraude/</guid><description>&lt;p>Cuando entré a trabajar en Tuenti, hace ya más de 12 años, estaba convencidísimo de que no iba a pasar el periodo de prueba.&lt;/p>
 &lt;p>&lt;img src="https://www.ppardalj.com/images/blog/1725350594461.jpg" alt="">&lt;/p>
 &lt;p>En mi cabeza, tenía constantemente el pensamiento de “qué carajo habré hecho para engañar a esta gente, en cualquier momento me van a descubrir y chao”.&lt;/p>
 &lt;p>Pero pasé el periodo de prueba. Estuve allí 3 años.&lt;/p>
